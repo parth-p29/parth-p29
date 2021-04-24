@@ -1,3 +1,5 @@
+![parth github](https://user-images.githubusercontent.com/69891859/115943044-a91b3f80-a47b-11eb-840d-aad02e1a7703.jpg)
+
 ### Hey, I'm Parth! 👋
 
 🔭 I’m currently interning as a Software Developer at Ceridian
