@@ -1,4 +1,4 @@
-![parth github](https://user-images.githubusercontent.com/69891859/115943044-a91b3f80-a47b-11eb-840d-aad02e1a7703.jpg)
+![tenor15fd6e015a5](https://user-images.githubusercontent.com/69891859/116454312-d7a76a80-a82d-11eb-94cf-c0ee4c0c4885.gif)
 
 ### Hey, I'm Parth! 👋
 
