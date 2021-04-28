@@ -1,4 +1,4 @@
-![tenor15fd6e015a5](https://user-images.githubusercontent.com/69891859/116454312-d7a76a80-a82d-11eb-94cf-c0ee4c0c4885.gif)
+![FatGuyAngryAtComputer](https://user-images.githubusercontent.com/69891859/116454902-746a0800-a82e-11eb-8136-2825cee58248.gif)
 
 ### Hey, I'm Parth! 👋
 
