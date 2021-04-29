@@ -2,11 +2,18 @@
 
 ### Hey, I'm Parth! 👋
 
-I'm a Systems Design Engineering student at the University of Waterloo who loves to solve complex problems with software! My primary interests include backend development with tools like Flask, Node/Express etc. but would enjoy taking on anything from frontend with React, DevOps to AI/ML.
+🔭 I'm a Systems Design Engineering student at the University of Waterloo who loves to solve complex problems with software
 
-🔭 I Built two projects recently that you should definetly check out: Diversify and Find my Barber
+⚡️ Previously interned as a SWE at Ceridian
 
-🌱 Currently I’m learning Node.js, Express, React and Azure
+🌱 Currently learning Node.js, Express, React and Azure
+
+💖 Interests include:
+ 
+ - Backend
+ - Full-stack 
+ - DevOps
+ - AI/ML
 
 📫 Reach me at: 
 - LinkedIn: https://www.linkedin.com/in/parth-29/
