@@ -23,4 +23,4 @@
 
 📈 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-p29&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-p29&theme=tokyonight&show_icons=true)
