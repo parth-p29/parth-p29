@@ -6,10 +6,7 @@
 
 ⚡️ Previously interned as a SWE at Ceridian
 
-🌱 Currently learning Node.js, Express, React and Azure
-
 💖 Interests include:
- 
  - Backend
  - Full-stack 
  - DevOps
