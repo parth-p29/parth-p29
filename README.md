@@ -15,7 +15,7 @@
 📫 Reach me at: 
 - LinkedIn: https://www.linkedin.com/in/parth-29/
 - Email: parth.patel@uwaterloo.ca
-- Website: parthpatel.site
+- Website: [parthpatel.site](https://www.parthpatel.site/)
 
 
 📈 Stats:
