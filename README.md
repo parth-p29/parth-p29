@@ -16,8 +16,3 @@
 - LinkedIn: https://www.linkedin.com/in/parth-29/
 - Email: parth.patel@uwaterloo.ca
 - Website: [parthpatel.site](https://www.parthpatel.site/)
-
-
-📈 Stats:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-p29&theme=tokyonight&show_icons=true)
