@@ -4,7 +4,7 @@
 
 🔭 I'm a Systems Design Engineering student at the University of Waterloo who loves to solve complex problems with software
 
-⚡️ Previously interned as a SWE at Ceridian
+⚡️ Currently working at Reebee as a Backend SWE Intern! Previously interned as a SWE at Ceridian
 
 💖 Interests include:
  - Backend
