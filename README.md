@@ -11,7 +11,7 @@
 💖 Interests include:
  - Backend
  - Full-stack 
- - DevOps
+ - Cloud
  - AI/ML
 
 📫 Reach me at: 
