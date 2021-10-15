@@ -4,9 +4,9 @@
 
 🔭 I'm a Systems Design Engineering student at the University of Waterloo who loves to solve complex problems with software
 
-💻 Currently working at Reebee as a Backend SWE Intern and at Waterloop as a Full Stack Developer!
+💻 Currently working at Reebee as a Backend SWE Intern and at Waterloop as a Full Stack Developer
 
-⚡️ Previously interned as a SWE at Ceridian
+⚡️ Previously interned at Ceridian as a SWE
 
 💖 Interests include:
  - Backend
