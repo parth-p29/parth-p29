@@ -2,11 +2,11 @@
 
 ### Hey, I'm Parth! 👋
 
-🔭 I'm a Systems Design Engineering student at the University of Waterloo who loves to solve complex problems with software
+🔭 I'm a Systems Design Engineering student at the University of Waterloo who loves to solve problems with software
 
-💻 Currently working at Reebee as a Backend SWE Intern and at Waterloop as a Full Stack Developer
+💻 Currently seeking SWE internships for summer 2022
 
-⚡️ Previously interned at Ceridian as a SWE
+⚡️ Previously interned at Ceridian as a SWE and at Reebee as a Backend Engineer
 
 📫 Reach me at: 
 - LinkedIn: https://www.linkedin.com/in/parth-29/
