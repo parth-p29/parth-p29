@@ -4,7 +4,7 @@
 
 🔭 I'm a Systems Design Engineering student at the University of Waterloo who loves to solve problems with software
 
-💻 Currently seeking SWE internships for summer 2022
+💻 Currently seeking SWE internships for winter 2023
 
 ⚡️ Previously interned at Ceridian as a SWE and at Reebee as a Backend Engineer
 
