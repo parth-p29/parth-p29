@@ -6,7 +6,7 @@
 
 💻 Currently seeking SWE internships for winter 2023
 
-⚡️ Previously interned at Ceridian as a SWE and at Reebee as a Backend Engineer
+⚡️ Previously interned as a SWE at Ceridian, Reebee
 
 📫 Reach me at: 
 - LinkedIn: https://www.linkedin.com/in/parth-29/
