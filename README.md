@@ -4,9 +4,12 @@
 
 🔭 I'm a Systems Design Engineering student at the University of Waterloo who loves to solve problems with software
 
-💻 Currently seeking SWE internships for winter 2023
+⚡️ Currently working as a Software Engineer Intern @ ODAIA and seeking SWE internships for winter 2023
 
-⚡️ Previously interned as a SWE at Ceridian and Reebee
+💻 Past roles:
+- [Backend Software Engineer Intern @ Reebee](https://www.reebee.com/) - Fall 2021
+- [Full Stack Developer @ Waterloop](https://teamwaterloop.ca/) - Fall 2021
+- [Software Developer Intern @ Ceridian](https://www.ceridian.com/) - Winter 2021
 
 📫 Reach me at: 
 - LinkedIn: https://www.linkedin.com/in/parth-29/
