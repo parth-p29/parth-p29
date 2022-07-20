@@ -4,7 +4,7 @@
 
 🔭 I'm a Systems Design Engineering student at the University of Waterloo who loves to solve problems with software
 
-⚡️ Currently working as a Software Engineer Intern @ ODAIA and seeking SWE internships for winter 2023
+⚡️ Currently working as a Software Engineer Intern @ [ODAIA](https://www.odaia.ai/) and seeking SWE internships for winter 2023
 
 💻 Past roles:
 - [Backend Software Engineer Intern @ Reebee](https://www.reebee.com/) - Fall 2021
