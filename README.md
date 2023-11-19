@@ -4,9 +4,10 @@
 
 🔭 I'm a Systems Design Engineering student at the University of Waterloo who loves to solve problems with software
 
-⚡️ Currently working as a [Software Engineer Intern @ Vidyard](https://www.vidyard.com/) and seeking SWE internships for Fall 2023
+⚡️ Currently working as a [Software Engineer Intern @ Kikoff](https://kikoff.com/) and seeking SWE internships for Summer 2024
 
 💻 Past roles:
+- [Software Engineer Intern @ Vidyard](https://www.vidyard.com/) - Winter 2023
 - [Software Engineer Intern @ ODAIA](https://www.odaia.ai/) - Summer 2022
 - [Backend Software Engineer Intern @ Reebee](https://www.reebee.com/) - Fall 2021
 - [Full Stack Developer @ Waterloop](https://teamwaterloop.ca/) - Fall 2021
