@@ -4,9 +4,11 @@
 
 🔭 I'm a Systems Design Engineering student at the University of Waterloo who loves to solve problems with software
 
-⚡️ Currently working as a [Software Engineer Intern @ Kikoff](https://kikoff.com/) and seeking SWE internships for Summer 2024
+⚡️ Most recently worked at Amazon as a Software Development Engineer Intern!
 
 💻 Past roles:
+- [Software Development Engineer Intern @ Amazon]() - Summer 2024
+- [Software Engineer Intern @ Kikoff](https://kikoff.com/) - Fall 2023
 - [Software Engineer Intern @ Vidyard](https://www.vidyard.com/) - Winter 2023
 - [Software Engineer Intern @ ODAIA](https://www.odaia.ai/) - Summer 2022
 - [Backend Software Engineer Intern @ Reebee](https://www.reebee.com/) - Fall 2021
